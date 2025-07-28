@@ -1,3 +1,11 @@
-body {
-  margin: 0;
-}
+@import './utilis/mixin';
+@import './utilis/variables';
+@import './blocks/header';
+@import './blocks/menu';
+@import './blocks/page';
+@import './blocks/top-bar';
+@import './blocks/content';
+@import './blocks/recommended';
+@import './blocks/about-us';
+@import './blocks/categories';
+@import './blocks/contact';
